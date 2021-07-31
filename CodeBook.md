@@ -3,7 +3,7 @@
 About R script:
 
    1. Reading all necessary files:
-      1.1 Reading train variables
+   1.1 Reading train variables
       1.2 Reading test variables
       1.3 Reading subject_test
       1.4 Reading feature
